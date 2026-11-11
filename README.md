@@ -4,7 +4,7 @@ A somewhat low-profile wireless 46-key keyboard that uses a dongle for connectio
 Supports Choc V1 and V2 switches, is hotswappable, and uses a 3.7V 800mAh 802535 for each side. PCB is screwed into the case with 2 M2x6 screws and self-taps.
 
 Dongle Case: https://www.printables.com/model/651428-seeed-xiao-ble-case-with-led-hole
-
+(Not made by me)
 Firmware is ZMK
 
 AI Disclosure:
