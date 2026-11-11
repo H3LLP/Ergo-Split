@@ -5,6 +5,7 @@ Supports Choc V1 and V2 switches, is hotswappable, and uses a 3.7V 800mAh 802535
 
 Dongle Case: https://www.printables.com/model/651428-seeed-xiao-ble-case-with-led-hole
 (Not made by me)
+
 Firmware is ZMK
 
 AI Disclosure:
