@@ -6,3 +6,6 @@ Designator,Footprint,Quantity,Value,Part Name,Price,Shipping,Link
 "U1, U2",modified-XIAO-nRF52840-SMD,"3 (2 for boards, 1 for dongle)",XIAO-nRF52840-SMD,XIAO nRF52840,$32.08,$6.55,https://www.aliexpress.us/item/3256808047100037.html
 ~,~,46,~,Any Choc V1/V2 Switches,$28.23,Free,https://www.aliexpress.us/item/3256808697103313.html
 ~,~,2,~,3.7V 800mAh 802535,$5.99,$4.01,https://www.aliexpress.us/item/3256804695633953.html
+~,~,2,~,Left Case + Right Case,$8.53,$30.09(all JLC parts together),JLC3DP
+~,~,46,~,keycaps,$15.04,$30.09(all JLC parts together),JLC3DP
+~,~,1,~,PCB,$24.20,$30.09(all JLC parts together),JLCPCB
