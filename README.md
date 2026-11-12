@@ -10,7 +10,8 @@ Firmware is ZMK
 
 AI Disclosure:
 Used AI to help with part selection and parts of the firmware
-<img width="1300" height="911" alt="Screenshot 2026-11-10 233449" src="https://github.com/user-attachments/assets/8628d37e-6d95-4059-bae1-e6e5c9533a0e" />
+<img width="963" height="635" alt="image" src="https://github.com/user-attachments/assets/7d964d56-e660-4455-9709-f723b99f6a89" />
+
 
 <img width="1375" height="631" alt="Screenshot 2026-11-10 222335" src="https://github.com/user-attachments/assets/6a75af1a-a91e-41ec-8ecd-4bddb30560a1" />
 
